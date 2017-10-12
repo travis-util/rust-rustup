@@ -1,3 +1,2 @@
 install:
 - curl https://sh.rustup.rs -sSf | sh
-- et voilà!
