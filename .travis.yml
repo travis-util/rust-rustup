@@ -4,3 +4,4 @@ install:
 - sh rustup-download.sh -y
 script:
 - ls -a
+- ls -a ~
