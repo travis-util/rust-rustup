@@ -5,3 +5,4 @@ install:
 script:
 - ls -a
 - ls -a ~
+- ls -a ~/.cargo/bin
